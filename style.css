@@ -1,0 +1,50 @@
+@font-face {
+    font-family: vazir;
+    src: url(../font/Vazir-Black.ttf);
+    src: url(../font/Vazir-Black.eot),
+    url(../font/Vazir-Black.woff)
+    url(../font/Vazir-Black.woff2);
+}
+
+*{
+    font-family: vazir;
+}
+
+
+#icon svg{
+    width: 30px;
+    height: 50px;
+    color: #dc3545;
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+#icon3 svg{
+    width: 30px;
+    height: 50px;
+    color: #1f1e1e;
+    background-color: transparent;
+    border-radius: 10px;
+}
+ svg{
+   font-size: 1.5rem;
+    color: #dc3545;
+    background-color: transparent;
+}
+
+.list-unstyled li a{
+    text-decoration: none;
+    color: #000;
+}
+
+.list-unstyled li a:hover{
+    color: #000;
+}
+
+
+
+.bor{
+    border-bottom: 3px solid #000;
+    height: 30px;
+}
+
